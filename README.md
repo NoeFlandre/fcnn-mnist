@@ -15,12 +15,12 @@ This repository contains a simple implementation of a Fully Connected Neural Net
 
 1. **Train and evaluate the model:**
    ```bash
-   python main.py
+   python src/main.py
    ```
 
 2. **Visualize the metrics:**
    ```bash
-   python visualize.py
+   python src/visualize.py
    ```
 
 ## Visualization
